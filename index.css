@@ -4,5 +4,10 @@ div {
 }
 
 p {
-  color: red;
+  font: 100px Arial, sans-serif;
+    color: red;
+}
+
+p2 {
+  color: blue;
 }
