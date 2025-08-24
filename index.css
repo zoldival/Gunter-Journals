@@ -4,10 +4,12 @@ div {
 }
 
 p {
+  text-align: center;
   font: 60px Helvetica, sans-serif;
     color: red;
 }
 
 p2 {
-  color: blue;
+  color: blue; 
+  background-color: yellow;
 }
