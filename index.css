@@ -1,15 +1,21 @@
 div {
+  outline: red solid 2px;
   color: white;
   background-color: black;
 }
 
 p {
+  padding: 100px;
+  outline: red solid 2px;
+  border: 1cm solid red;
+  background-color: black;
   text-align: center;
   font: 60px Helvetica, sans-serif;
     color: red;
 }
 
 p2 {
+  outline: 2px solid red;
   color: blue; 
   background-color: yellow;
 }
